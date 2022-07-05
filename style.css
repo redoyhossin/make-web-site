@@ -1,0 +1,113 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.co-la{
+    color: chocolate;
+}
+.headar-po{
+    display: flex;
+}
+H1{
+    font-size:50PX; 
+}
+.header-text{
+    width:50%;
+    padding-left:100px;
+}
+
+.pic-top img{
+    width:75%;
+    margin-left: 100px;
+    margin-top:0px;
+    
+}
+.bt-n{
+    text-decoration: none;
+    color:white;
+    padding:6px 30px;
+    font-size:17px;
+    background-image: linear-gradient(tomato, orange);
+    border-radius:6px;
+    margin:0 auto;
+    border: l;
+
+}
+
+.pic-top-2 img{
+    width:75%;
+    margin-left:80px;
+    margin-top:60px;
+    
+}
+
+.headar-po-2{
+    display: flex;
+}
+
+.header-text-2{
+    margin-top:30px;
+    width:50%;
+    padding-right:100px;
+}
+
+.bt-n-2{
+    text-decoration: none;
+    color:white;
+    padding:8px 40px;
+    font-size:16px;
+    background-image: linear-gradient(tomato, orange);
+    border-radius:6px;
+    margin:0 auto;
+    border: l;
+
+}
+.top-benner{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+
+.benner-2{
+background-image: url(img/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+ background-size: 92px; 
+}
+.sid-text{
+    display: flex;
+}
+
+.box-cad{
+width: 30%;
+box-shadow: 5px 6px 6px 5px  ;
+padding:0px 50px;
+margin-left: 100px;
+border-left: 5px solid salmon;
+}
+
+.box-cad2{
+    
+width:30%;
+ box-shadow: 5px 6px 6px 5px;
+margin-left:127px;
+padding: 10px 50px;
+border-left: 5px solid rgb(13, 231, 13);
+}
+
+.right-benner{
+
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 88px;
+    
+}
+.fo-ter{
+ margin-top:50px;
+ height: 30px;
+background-color: black;
+color: white;
+text-align: center;
+padding-top: 12px;
+}
